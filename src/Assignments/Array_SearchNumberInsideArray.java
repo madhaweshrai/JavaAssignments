@@ -6,7 +6,7 @@ public class Array_SearchNumberInsideArray {
 		// TODO Auto-generated method stub
 		// WAP to search number inside array and print its position as well.
 		
-		int number= 109 , flag=0 , count=0;
+		int number= 104 , flag=0 , count=0;
 		
 		int arr[]= new int[5];
 		
