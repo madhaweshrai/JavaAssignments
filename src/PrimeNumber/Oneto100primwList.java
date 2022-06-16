@@ -5,7 +5,7 @@ public class Oneto100primwList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int flag=0,count=0;
-		for(int num=1;num<=100;num++)
+		for(int num=2;num<=100;num++)
 			
 		{
 			
